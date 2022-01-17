@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marianalima.amb@gmail.com
+	name = Mariana Maia
